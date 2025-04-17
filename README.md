@@ -4,7 +4,7 @@ Este projeto visa criar uma visualização rica e envolvente do clássico proble
 
 ## Demonstração
 
-![Animação CartPole 3D](http://googleusercontent.com/image_generation_content/0)
+![Animação CartPole 3D](cartpole_animation.gif)
 
 ## Tecnologias Utilizadas
 
